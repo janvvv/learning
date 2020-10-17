@@ -1,0 +1,26 @@
+--------------------
+Order made by j j
+Total price: 500
+Order:
+	Name: Rolls | Category: ProductCategory.FOOD | Price: 100 x 5
+
+--------------------
+
+--------------------
+Order made by k k
+Total price: 85
+Order:
+	Name: Jam | Category: ProductCategory.FOOD | Price: 58 x 1
+	Name: Milk | Category: ProductCategory.FOOD | Price: 27 x 1
+
+--------------------
+
+--------------------
+Order made by f f
+Total price: 186
+Order:
+	Name: Bread | Category: Food | Price: 16 x 1
+	Name: Rolls | Category: Food | Price: 85 x 2
+
+--------------------
+
