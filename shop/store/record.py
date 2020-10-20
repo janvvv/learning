@@ -1,4 +1,3 @@
-
 import os
 
 path_to_file = os.path.join('data', 'orders.txt')
