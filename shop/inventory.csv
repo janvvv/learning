@@ -1,0 +1,10 @@
+name,category,unit_price,identifier,quantity
+Rolls,FOOD,2.0,1,64
+Bread,FOOD,5.0,2,24
+Cookies,FOOD,11.0,3,14
+Jam,FOOD,7.0,4,19
+Milk,FOOD,3.0,5,12
+Pan,TOOL,75.0,6,5
+Pot,TOOL,45.0,7,5
+Kettle,TOOL,50.0,8,5
+Knife,TOOL,99.0,9,5

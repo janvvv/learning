@@ -18,6 +18,7 @@ MAX_IDENTIFIER = 100
 def generate_quantity():
     return random.randint(MIN_QUANTITY, MAX_QUANTITY)
 
+
 def generate_product(name=None):
 
     category = ProductCategory.FOOD

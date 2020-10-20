@@ -18,6 +18,7 @@ def handle_customer():
         order = init_order()
         while more_products():
             add_product_to_order(order, Inventory.AVAILABLE_PRODUCTS)
+        Inventory.update_csv()
         print_order_summary(order)
         save_order(order)
     else:
